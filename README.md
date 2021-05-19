@@ -34,10 +34,3 @@ Thannks to https://github.com/Tony607/object_detection_demo for the intial demo!
 * For reading purposes, for  MobileNetSSDv2, the notebook is saved here as Tutorial_Mobilenet.ipynb
 * For reading purposes, for Faster R-CNN, the notebook is also saved here as Tutorial_Faster_RCNN.ipynb
 
-
-## About Roboflow for Data Management
-
-[Roboflow](https://roboflow.ai) makes managing, preprocessing, augmenting, and versioning datasets for computer vision seamless.
-Developers reduce 50% of their code when using Roboflow's workflow, automate annotation quality assurance, save training time, and increase model reproducibility.
-
-![alt text](https://i.imgur.com/WHFqYSJ.png)
